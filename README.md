@@ -2,6 +2,14 @@
 
 ## 🔍 QA Engineer | Нахожу баги быстрее, чем разработчики их создают
 
-Languages
+### Languages and tools
+![mySQL](https://img.shields.io/badge/-mySQL-4479A1?style=for-the-badge&logo=mySQL&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=ffffff)
+![Atlassian Jira](https://img.shields.io/badge/-Atlassian_JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=ffffff)
+![Visual studio code](https://img.shields.io/badge/-Visual_studio_code-ffffff?style=for-the-badge&logoColor=29B6F6)
+![Devtools](https://img.shields.io/badge/-DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/-git-FF6C37?style=for-the-badge&logo=git&logoColor=ffffff)
+![GITHUB](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 
 Follow Me
+
